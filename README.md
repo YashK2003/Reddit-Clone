@@ -52,11 +52,11 @@ You have to install Node.js and React JS in your machine.
 ```Upon clicking the open button the user is navigated to a blank page with keyboard shortcuts written and links in the navbar given to proceed further```    
 
 ** ** 
-```The Navbar contains link to four pages:```
-```1. Users ```
-```2. Joining Request Page ```
-```3. Stats ```
-```4. Reported Page ```
+The Navbar contains link to four pages:
+1. Users 
+2. Joining Request Page 
+3. Stats 
+4. Reported Page 
 ** ** 
 
 ### Users Page
